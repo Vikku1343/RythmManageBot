@@ -142,8 +142,8 @@ HELP_STRINGS = f"""
 ╔═════❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱════❍⊱❁۪۪
 ║
 ║┏━━━━━━➣
-║┣⪼ ᴅᴇᴠᴇʟᴏᴘᴇʀ ➪ @I\_LOVE\_YOU\_MY\_HEARTBEET
-║┣⪼ ɢʀᴏᴜᴘ ➪ @ISHQ00\_I
+║┣⪼ ᴅᴇᴠᴇʟᴏᴘᴇʀ ➪ @D3AD_B0Y
+║┣⪼ ɢʀᴏᴜᴘ ➪ @ISHQSUFIIYANA
 ║┣⪼ ʙʀᴀɴᴄʜ ➪ @Rythm_support
 ║┗━━━━━━➣
 ║
