@@ -1,5 +1,3 @@
-# RythmManageBot
-
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
