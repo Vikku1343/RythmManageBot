@@ -110,13 +110,13 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🍁ɢʀᴏᴜᴘ🍁", url=f"https://t.me/Rythm_support"),
+        InlineKeyboardButton(text="🍁ɢʀᴏᴜᴘ🍁", url=f"https://t.me/Rhythm_support"),
         InlineKeyboardButton(text="⚙️ʜᴇʟᴘ⚙️", callback_data="help_back"),
     ],
     [
         
         InlineKeyboardButton(text="🌷ᴅᴇᴠᴇʟᴏᴘᴇʀ🌷", url=f"https://t.me/D3AD_B0Y"),
-        InlineKeyboardButton(text="🥀ʙʀᴀɴᴄʜ🥀", url=f"https://t.me/Rythm_support"),
+        InlineKeyboardButton(text="🥀ʙʀᴀɴᴄʜ🥀", url=f"https://t.me/Rhythm_support"),
     ],
     [
         InlineKeyboardButton(
@@ -144,7 +144,7 @@ HELP_STRINGS = f"""
 ║┏━━━━━━➣
 ║┣⪼ ᴅᴇᴠᴇʟᴏᴘᴇʀ ➪ @D3AD_B0Y
 ║┣⪼ ɢʀᴏᴜᴘ ➪ @ISHQSUFIIYANA
-║┣⪼ ʙʀᴀɴᴄʜ ➪ @Rythm_support
+║┣⪼ ʙʀᴀɴᴄʜ ➪ @Rhythm_support
 ║┗━━━━━━➣
 ║
 ╚═════════════════❍⊱❁۪۪
